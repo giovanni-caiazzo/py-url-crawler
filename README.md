@@ -1,5 +1,7 @@
-## Damn Small URL Crawler
-Minimal But Powerful Crawler for Extracting all The Internal/External/Fuzz-able Links from a website it can also crawl until 2 depth for each link given. This Script is Used for Penetration-Testing and During Ethical Hacking Engagements
+This is a fork of [dsuc](https://github.com/r3dxpl0it/Damn-Small-URL-Crawler)
+## URL Crawler
+Python Crawler for Extracting Internal and External Links from a link. It can deep-crawl sites too.
+
 ### Usage 
 ##### Instalation
 `git clone https://github.com/r3dxpl0it/Damn_Small_URL_Crawler && cd Damn_Small_URL_Crawler && pip install -r	requirements.txt`
